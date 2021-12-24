@@ -83,4 +83,3 @@ C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema log
 C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema login\obj\Debug\Sistema login.csproj.CoreCompileInputs.cache
 C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema login\obj\Debug\Sistema login.dll
 C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema login\obj\Debug\Sistema login.pdb
-C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema login\obj\Debug\Sistema login.csproj.CopyComplete
