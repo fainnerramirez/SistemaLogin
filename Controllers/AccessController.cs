@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Sistema_login.Models;
 
 namespace Sistema_login.Controllers
 {
@@ -18,6 +19,19 @@ namespace Sistema_login.Controllers
         {
             try
             {
+
+                using (ProductosAppEntities db = new ProductosAppEntities())
+                {
+                    var list = from d in db.Users
+                               where d.username == user && d.password == password && d.idState == 1
+                               select d;
+
+                    if(list.Count() > 0)
+                    {
+                        Session["user"] = list.First();
+                    }
+                }
+
                 return Content("1");
             }catch(Exception ex)
             {

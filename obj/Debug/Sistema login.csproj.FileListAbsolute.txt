@@ -87,4 +87,3 @@ C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema log
 C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema login\bin\EntityFramework.SqlServer.dll
 C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema login\bin\EntityFramework.xml
 C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema login\bin\EntityFramework.SqlServer.xml
-C:\Users\Dolphin\Desktop\Proyecto .net - Sistema Login\Sistema Login\Sistema login\obj\Debug\Sistema login.csproj.CopyComplete
